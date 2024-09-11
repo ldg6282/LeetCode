@@ -3,27 +3,23 @@
  * @return {boolean}
  */
 var isValid = function(s) {
-    const result = {
-        "(": ")",
-        "{": "}",
-        "[": "]"
+    const result = [];
+    const vaild = {
+        ')': '(',
+        '}': '{',
+        ']': '['
     };
-    const arr1 =[];
 
-    for (let i = 0; i < s.length; i++) {
-    if (s[i] === "(" || s[i] === "{" || s[i] === "[") {
-        arr1.push(s[i]);
-    } else {
-        const lastArr = arr1.pop();
-        if (result[lastArr] !== s[i]) {
-        return false;
+    for (let char of s) {
+        if (vaild[char]) {
+            if (result.length === 0 || result[result.length - 1] !== vaild[char]) {
+                return false;
+            }
+            result.pop();
+        } else {
+            result.push(char);
         }
     }
-    
-    }
-    if (arr1.length === 0) {
-        return true;
-    } else {
-        return false;
-    }
+
+    return result.length === 0;
 };
