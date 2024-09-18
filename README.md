@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ldg6282/LeetCode/tree/master/0231-power-of-two) |
+| [0367-valid-perfect-square](https://github.com/ldg6282/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ldg6282/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/ldg6282/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Sorting
 |  |
 | ------- |
