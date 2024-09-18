@@ -14,6 +14,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ldg6282/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ldg6282/LeetCode/tree/master/0027-remove-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ldg6282/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/ldg6282/LeetCode/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -45,4 +46,12 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ldg6282/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/ldg6282/LeetCode/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/ldg6282/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
