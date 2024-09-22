@@ -9,6 +9,7 @@
 | [0219-contains-duplicate-ii](https://github.com/ldg6282/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0322-coin-change](https://github.com/ldg6282/LeetCode/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ldg6282/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0605-can-place-flowers](https://github.com/ldg6282/LeetCode/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/ldg6282/LeetCode/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
@@ -83,4 +84,8 @@
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/ldg6282/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ldg6282/LeetCode/tree/master/0226-invert-binary-tree) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/ldg6282/LeetCode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
