@@ -14,7 +14,6 @@ var canPlaceFlowers = function(flowerbed, n) {
             if (emptyLeft && emptyRight) {
                 flowerbed[i] = 1;
                 count++;
-                i++;
             }
         }
     }
