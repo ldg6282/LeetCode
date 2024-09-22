@@ -9,6 +9,7 @@
 | [0219-contains-duplicate-ii](https://github.com/ldg6282/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0322-coin-change](https://github.com/ldg6282/LeetCode/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ldg6282/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0792-binary-search](https://github.com/ldg6282/LeetCode/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ldg6282/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/ldg6282/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0792-binary-search](https://github.com/ldg6282/LeetCode/tree/master/0792-binary-search) |
 ## Sorting
 |  |
 | ------- |
