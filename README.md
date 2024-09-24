@@ -14,6 +14,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ldg6282/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ldg6282/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ldg6282/LeetCode/tree/master/0027-remove-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ldg6282/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -54,10 +55,12 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ldg6282/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/ldg6282/LeetCode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ldg6282/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0322-coin-change](https://github.com/ldg6282/LeetCode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/ldg6282/LeetCode/tree/master/0392-is-subsequence) |
 ## Breadth-First Search
