@@ -22,6 +22,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ldg6282/LeetCode/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/ldg6282/LeetCode/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/ldg6282/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ldg6282/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/ldg6282/LeetCode/tree/master/0062-unique-paths) |
 | [0322-coin-change](https://github.com/ldg6282/LeetCode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/ldg6282/LeetCode/tree/master/0392-is-subsequence) |
 ## Breadth-First Search
@@ -91,4 +93,8 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/ldg6282/LeetCode/tree/master/0605-can-place-flowers) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ldg6282/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
