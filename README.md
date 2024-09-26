@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ldg6282/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ldg6282/LeetCode/tree/master/0027-remove-element) |
+| [0200-number-of-islands](https://github.com/ldg6282/LeetCode/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/ldg6282/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0322-coin-change](https://github.com/ldg6282/LeetCode/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ldg6282/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -68,6 +69,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ldg6282/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ldg6282/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/ldg6282/LeetCode/tree/master/0322-coin-change) |
 ## Linked List
@@ -83,6 +85,7 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/ldg6282/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0200-number-of-islands](https://github.com/ldg6282/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ldg6282/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -97,4 +100,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ldg6282/LeetCode/tree/master/0062-unique-paths) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ldg6282/LeetCode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ldg6282/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
