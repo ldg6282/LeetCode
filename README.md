@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ldg6282/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ldg6282/LeetCode/tree/master/0027-remove-element) |
+| [0054-spiral-matrix](https://github.com/ldg6282/LeetCode/tree/master/0054-spiral-matrix) |
 | [0198-house-robber](https://github.com/ldg6282/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ldg6282/LeetCode/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/ldg6282/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -109,5 +110,10 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ldg6282/LeetCode/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/ldg6282/LeetCode/tree/master/0200-number-of-islands) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ldg6282/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
