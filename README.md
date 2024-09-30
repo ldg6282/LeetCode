@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ldg6282/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ldg6282/LeetCode/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/ldg6282/LeetCode/tree/master/0054-spiral-matrix) |
+| [0139-word-break](https://github.com/ldg6282/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/ldg6282/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ldg6282/LeetCode/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/ldg6282/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -41,6 +42,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/ldg6282/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/ldg6282/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/ldg6282/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ldg6282/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -62,12 +64,14 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ldg6282/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0139-word-break](https://github.com/ldg6282/LeetCode/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/ldg6282/LeetCode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ldg6282/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/ldg6282/LeetCode/tree/master/0062-unique-paths) |
+| [0139-word-break](https://github.com/ldg6282/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/ldg6282/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/ldg6282/LeetCode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/ldg6282/LeetCode/tree/master/0392-is-subsequence) |
@@ -119,4 +123,12 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ldg6282/LeetCode/tree/master/0054-spiral-matrix) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ldg6282/LeetCode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ldg6282/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
