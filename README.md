@@ -42,6 +42,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ldg6282/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0139-word-break](https://github.com/ldg6282/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/ldg6282/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/ldg6282/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ldg6282/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ldg6282/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0139-word-break](https://github.com/ldg6282/LeetCode/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/ldg6282/LeetCode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
@@ -131,4 +133,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ldg6282/LeetCode/tree/master/0139-word-break) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ldg6282/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
